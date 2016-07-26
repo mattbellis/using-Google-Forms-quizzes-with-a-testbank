@@ -59,9 +59,9 @@ From the script...
      // This should be the only things you need to edit for your own use
      /////////////////////////////////////////////////////////////
           
-         // These define the ID that you need for your own Google Drive documents. 
-         // The ID is a unique identifier for each file. You can grab it from the URL
-         // for the document. For instance, if the URL reads...
+     // These define the ID that you need for your own Google Drive documents. 
+     // The ID is a unique identifier for each file. You can grab it from the URL
+     // for the document. For instance, if the URL reads...
       //
       //    https://script.google.com/a/siena.edu/d/1rACPT_W6E2u9taMKEIf2IijP6onTUtAyurojSB5di3MCd4deZsgS3KZK/edit?usp=drive_web
       // 
