@@ -21,7 +21,7 @@ You'll also need to create 3 files (I show you examples of each below)...
 Here's some examples of each, formatted in such a way that they will work with the Google Apps Script that I wrote. 
 
 -----
-'''Test bank'''
+**Test bank**
 
 https://docs.google.com/spreadsheets/d/185vtr8aD-p4NCa5-QyfRJNSba2a1X_yjkkPFF9w66jk/edit?usp=sharing
 
@@ -32,14 +32,14 @@ I've bolded the correct answers, but this is not used when the quiz is created. 
 For "Type", "MC" is multiple choice and "CB" is checkbox, the only two options that Google Quizzes currently takes. 
 
 -----
-'''Google Forms Quiz template'''
+**Google Forms Quiz template**
 
 https://docs.google.com/forms/d/1ww-rNPzzr6Jdn3NyqKfo3CqfDofaWGhygFU6BTHyhBk/edit?usp=sharing
 
 Google Apps Scripts does not have features for the Quizzes options, so my workaround is just to make a copy of a quiz template. 
 
 -----
-'''Quiz maker'''
+**Quiz maker**
 
 https://docs.google.com/spreadsheets/d/10jBngMHdglLk8TcDGOUTEMbfFCxh1ywAFQ1_E3oxwVQ/edit?usp=sharing
 
