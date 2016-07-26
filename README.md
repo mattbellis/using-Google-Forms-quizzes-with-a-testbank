@@ -82,3 +82,7 @@ From the script...
       var quiz_template_ID = '1ww-rNPzzr6Jdn3NyqKfo3CqfDofaWGhygFU6BTHyhBk'
       
       /////////////////////////////////////////////////////////////
+
+If you've added your own file IDs, you can run this script and it will make you a new Google Forms Quiz!
+
+You'll need to add your own answer key and feedback, but this will allow you to reuse questions from one year to the next. 
