@@ -31,6 +31,8 @@ I've bolded the correct answers, but this is not used when the quiz is created. 
 
 For "Type", "MC" is multiple choice and "CB" is checkbox, the only two options that Google Quizzes currently takes. 
 
+You can also store images by URL ("Type" = "IU") or stored on your Drive and referenced by ID ("Type" = "ID"). 
+
 -----
 **Google Forms Quiz template**
 
